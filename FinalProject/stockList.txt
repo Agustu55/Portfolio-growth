@@ -1,0 +1,38 @@
+Hasbro Inc.
+HAS
+Sealed Air
+SEE
+Starbucks Corp.
+SBUX
+Occidental Petroleum
+OXY
+Pinnacle West Capital
+PNW
+Brown-Forman Corp.
+BF-B
+Caterpillar Inc.
+CAT
+Southern Co.
+SO
+Dominion Energy
+D
+AT&T Inc.
+T
+Becton Dickinson
+BDX
+FirstEnergy Corp
+FE
+Automatic Data Processing
+ADP
+McKesson Corp.
+MCK
+Merck & Co.
+MRK
+International Paper
+IP
+Eaton Corporation
+ETN
+CSX Corp.
+CSX
+Campbell Soup
+CPB
